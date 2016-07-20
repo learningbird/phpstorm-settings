@@ -19,12 +19,12 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.php,*.js</mask>
       <mask>*.scss</mask>
       <mask>*.js,*.php</mask>
       <mask>*.json</mask>
       <mask>*.js</mask>
       <mask>*.php,*.js,*.scss</mask>
+      <mask>*.php,*.js</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
