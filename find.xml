@@ -3,13 +3,13 @@
     <option name="customScope" value="Open Files" />
     <option name="defaultScopeName" value="Open Files" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Open Files" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.php,*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,9 +23,9 @@
       <mask>*.js,*.php</mask>
       <mask>*.js</mask>
       <mask>*.php,*.js,*.scss</mask>
-      <mask>*.php,*.js</mask>
       <mask>*.json</mask>
       <mask>*.php</mask>
+      <mask>*.php,*.js</mask>
     </recentFileMasks>
   </component>
 </application>
