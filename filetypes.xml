@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="cnf" type="Ini" />
+      <mapping pattern="root-prod" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="mysql-keyring" type="PLAIN_TEXT" />
     </extensionMap>
