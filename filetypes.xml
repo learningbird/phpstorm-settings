@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="lb-exception" type="Bash" />
       <mapping ext="cnf" type="Ini" />
-      <mapping pattern="mysql-keyring" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="root-prod" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="mysql-keyring" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
