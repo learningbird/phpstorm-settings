@@ -5,6 +5,7 @@
       <mapping ext="cnf" type="Ini" />
       <mapping pattern="root-prod" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="lb-exception-bak" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="mysql-keyring" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
