@@ -26,9 +26,9 @@
       <mask>*.php,*.js,*.scss</mask>
       <mask>*.php,*.sh</mask>
       <mask>*.php,*.json</mask>
-      <mask>*.json</mask>
       <mask>*.php,*.js</mask>
       <mask>*.php</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
