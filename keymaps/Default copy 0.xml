@@ -130,4 +130,5 @@
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
+  <action id="tasks.close" />
 </keymap>
