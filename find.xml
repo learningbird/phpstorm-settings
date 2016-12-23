@@ -26,12 +26,12 @@
       <mask>*.php,*.js,*.scss</mask>
       <mask>*.php,*.json</mask>
       <mask>*.json</mask>
-      <mask>*.js</mask>
       <mask>*.php,*.sh</mask>
       <mask>*.php,*.js</mask>
       <mask>*.yml</mask>
       <mask>*.sh</mask>
       <mask>Dockerfile</mask>
+      <mask>*.js</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
