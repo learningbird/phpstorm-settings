@@ -1,0 +1,23 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="quote-list">
+      <action id="Replace" />
+      <typing text-keycode="54:1;52:1">^$</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="46:0;56:1;52:1">.*$</typing>
+      <shortuct text="TAB" />
+      <typing text-keycode="222:0;52:1;48:0;52:1;44:0">'$0$,</typing>
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="222:0;44:0">',</typing>
+      <shortuct text="alt A" />
+      <shortuct text="ESCAPE" />
+      <shortuct text="ESCAPE" />
+      <action id="EditorTextEnd" />
+      <action id="EditorBackSpace" />
+      <action id="GotoAction" />
+      <shortuct text="ENTER" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
