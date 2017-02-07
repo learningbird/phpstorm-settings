@@ -5,12 +5,11 @@
     <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="No Vendor" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,7 +19,6 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.scss</mask>
       <mask>*.js,*.php</mask>
       <mask>*.php,*.js,*.scss</mask>
       <mask>Dockerfile</mask>
@@ -32,6 +30,7 @@
       <mask>*.php,*.js</mask>
       <mask>*.php</mask>
       <mask>*.php,*.sh</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
