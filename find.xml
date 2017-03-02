@@ -11,7 +11,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="No Vendor" />
-    <option name="FILE_MASK" value="*.php,*.js" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -29,10 +29,10 @@
       <mask>*.php,*.json</mask>
       <mask>*.yml</mask>
       <mask>*.php,*.sh</mask>
-      <mask>*.scss</mask>
       <mask>*.sh</mask>
       <mask>*.php</mask>
       <mask>*.php,*.js</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
