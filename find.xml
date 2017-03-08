@@ -29,9 +29,9 @@
       <mask>*.yml</mask>
       <mask>*.php,*.sh</mask>
       <mask>*.sh</mask>
-      <mask>*.php</mask>
       <mask>*.php,*.js</mask>
       <mask>*.scss</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
