@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".bashrc" type="Bash" />
       <mapping pattern=".nest-release-version" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
