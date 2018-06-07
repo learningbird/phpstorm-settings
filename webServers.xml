@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9c206bb7-ac9f-4299-90b1-d7775377b739" name="learningbird" url="http://test.learningbird.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
