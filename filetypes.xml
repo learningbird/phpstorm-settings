@@ -15,6 +15,7 @@
       <mapping ext="2-jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="0-jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="1-jenkinsfile" type="PLAIN_TEXT" />
+      <mapping ext="raml" type="YAML" />
     </extensionMap>
   </component>
 </application>
