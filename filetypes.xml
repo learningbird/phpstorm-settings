@@ -2,13 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="list-orchestration" type="PLAIN_TEXT" />
-      <mapping pattern="writevt" type="PLAIN_TEXT" />
       <mapping pattern="list-ops" type="PLAIN_TEXT" />
+      <mapping pattern="list-wordpress" type="PLAIN_TEXT" />
       <mapping pattern="availzone-aws" type="PLAIN_TEXT" />
       <mapping pattern="machine-id" type="PLAIN_TEXT" />
+      <mapping pattern="nest-update-deploy-Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="current-Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="asdfa" type="PLAIN_TEXT" />
-      <mapping pattern="list-wordpress" type="PLAIN_TEXT" />
+      <mapping pattern="writevt" type="PLAIN_TEXT" />
       <mapping pattern="subdomain-local_dev" type="PLAIN_TEXT" />
       <mapping pattern="list-production-aws" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
