@@ -7,6 +7,7 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,7 +18,6 @@
     <mask>*.mxml</mask>
     <mask>*.pp</mask>
     <mask>*.php, *.js</mask>
-    <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.sh</mask>
     <mask>*.yml</mask>
@@ -25,5 +25,6 @@
     <mask>*.yml, *.yaml</mask>
     <mask>*.feature</mask>
     <mask>*.scss</mask>
+    <mask>*.js</mask>
   </component>
 </application>
