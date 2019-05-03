@@ -5,6 +5,7 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,11 +18,11 @@
     <mask>*.php, *.js</mask>
     <mask>*.sh</mask>
     <mask>*.yml</mask>
-    <mask>*.php</mask>
     <mask>*.yml, *.yaml</mask>
     <mask>*.feature</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.json</mask>
+    <mask>*.php</mask>
   </component>
 </application>
