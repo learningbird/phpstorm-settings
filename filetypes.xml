@@ -4,7 +4,9 @@
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="list-orchestration" type="PLAIN_TEXT" />
       <mapping pattern="list-ops" type="PLAIN_TEXT" />
+      <mapping pattern="report-nest-status" type="PLAIN_TEXT" />
       <mapping pattern="list-wordpress" type="PLAIN_TEXT" />
+      <mapping pattern="publish-nest-info" type="PLAIN_TEXT" />
       <mapping pattern="chronograf" type="PLAIN_TEXT" />
       <mapping pattern="availzone-aws" type="PLAIN_TEXT" />
       <mapping pattern="machine-id" type="PLAIN_TEXT" />
