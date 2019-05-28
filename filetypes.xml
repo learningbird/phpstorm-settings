@@ -3,16 +3,16 @@
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="list-orchestration" type="PLAIN_TEXT" />
+      <mapping pattern="writevt" type="PLAIN_TEXT" />
       <mapping pattern="list-ops" type="PLAIN_TEXT" />
       <mapping pattern="report-nest-status" type="PLAIN_TEXT" />
-      <mapping pattern="list-wordpress" type="PLAIN_TEXT" />
       <mapping pattern="publish-nest-info" type="PLAIN_TEXT" />
       <mapping pattern="chronograf" type="PLAIN_TEXT" />
       <mapping pattern="availzone-aws" type="PLAIN_TEXT" />
       <mapping pattern="machine-id" type="PLAIN_TEXT" />
       <mapping pattern="nest-update-deploy-Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="asdfa" type="PLAIN_TEXT" />
-      <mapping pattern="writevt" type="PLAIN_TEXT" />
+      <mapping pattern="list-wordpress" type="PLAIN_TEXT" />
       <mapping pattern="current-Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="subdomain-local_dev" type="PLAIN_TEXT" />
       <mapping pattern="updates-google-drive-reports" type="PLAIN_TEXT" />
@@ -21,6 +21,7 @@
       <mapping ext="2-jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="0-jenkinsfile" type="PLAIN_TEXT" />
+      <mapping ext="src" type="PLAIN_TEXT" />
       <mapping ext="awk" type="PLAIN_TEXT" />
       <mapping ext="1-jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="raml" type="YAML" />
