@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="org" type="JSON" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="list-orchestration" type="PLAIN_TEXT" />
       <mapping pattern="writevt" type="PLAIN_TEXT" />
