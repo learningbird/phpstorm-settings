@@ -20,6 +20,7 @@
       <mapping pattern="list-production-aws" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="2-jenkinsfile" type="PLAIN_TEXT" />
+      <mapping ext="kap" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="0-jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="src" type="PLAIN_TEXT" />
