@@ -7,6 +7,7 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tick" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -25,5 +26,6 @@
     <mask>*.php</mask>
     <mask>*.yml</mask>
     <mask>*.json</mask>
+    <mask>*.tick</mask>
   </component>
 </application>
