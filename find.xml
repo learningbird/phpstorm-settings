@@ -22,9 +22,11 @@
     <mask>*.feature</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
-    <mask>*.json</mask>
     <mask>*.tick</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.json</mask>
+    <mask>*.md</mask>
+    <mask>*</mask>
   </component>
 </application>
