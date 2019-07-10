@@ -51,4 +51,10 @@
     <option name="FOR_BRACE_FORCE" value="3" />
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
