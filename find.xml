@@ -9,6 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,12 +24,12 @@
     <mask>*.yml, *.yaml</mask>
     <mask>*.feature</mask>
     <mask>*.php</mask>
-    <mask>*.yml</mask>
     <mask>*.tick</mask>
     <mask>*.js</mask>
     <mask>*.md</mask>
     <mask>*</mask>
     <mask>*.json</mask>
     <mask>*.scss</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
